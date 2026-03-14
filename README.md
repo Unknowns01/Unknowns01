@@ -15,10 +15,6 @@ Device: Redmi Note 9 Pro (Miatoll)
 
 ---
 
-⚡ Tech Stack
-
-<p align="center"><img src="https://skillicons.dev/icons?i=linux,git,github,bash,python,c,cpp,androidstudio,vscode" /></p>---
-
 📊 GitHub Stats
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unknowns01&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowns01&layout=compact&theme=tokyonight&hide_border=true"/></p>---
@@ -33,15 +29,11 @@ Device: Redmi Note 9 Pro (Miatoll)
 
 🐍 Contribution Snake
 
-<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/output/github-contribution-grid-snake.svg"/></p>---
+<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/Unknowns01/output/github-contribution-grid-snake.svg"/></p>---
 
 👀 Profile Views
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Unknowns01&label=Profile%20Views&color=00F7FF&style=for-the-badge"/></p>---
-
-🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Unknowns01&theme=tokyonight&no-frame=true&margin-w=10"/></p>---
 
 ⚡ Fun Fact
 
