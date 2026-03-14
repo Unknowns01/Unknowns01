@@ -21,8 +21,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/Unknowns01/output/github-contribution-grid-snake-dark.svg" /></p>
 
-⚡ Fun Fact
-
-«I enjoy breaking Android and fixing it again 😆»
-
 ⭐ If you like my work, consider starring my repositories!
