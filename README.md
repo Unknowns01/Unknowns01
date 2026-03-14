@@ -7,12 +7,12 @@ Profile Views
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Unknowns01&label=Profile%20Views&color=00F7FF&style=for-the-badge"/></p>
 
-About Me
-Name: Naman
-Role: Maintainer
-Focus: Custom ROMs
-Device: Redmi Note 9 Pro (Miatoll)
+## 🧑‍💻 About Me
 
+Name: **Naman**
+Role: **Custom ROM Maintainer**
+Device: **Redmi Note 9 Pro (Miatoll)**
+Focus: **Custom ROM Development**
 
 📊 GitHub Stats
 
@@ -28,7 +28,7 @@ Device: Redmi Note 9 Pro (Miatoll)
 
 🐍 Contribution Snake
 
-<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/Unknowns01/output/github-contribution-grid-snake.svg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/Unknowns01.github.io/output/github-contribution-grid-snake.svg"/></p>
 
 ⚡ Fun Fact
 
