@@ -28,7 +28,7 @@ Focus: **Custom ROM Development**
 
 🐍 Contribution Snake
 
-<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/Unknowns01.github.io/output/Unknowns01.github.io/github-contribution-grid-snake.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/Unknowns01.github.io/output/github-contribution-grid-snake.svg"></p>
 
 ⚡ Fun Fact
 
