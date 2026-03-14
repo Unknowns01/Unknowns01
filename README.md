@@ -1,20 +1,13 @@
 # Hi 👋 There
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Naman;Android+ROM+Maintainer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Naman;Redmi+Note+9+Pro+(Miatoll);Custom+ROM+Maintainer;Open+Source+Contributor"/>
 </h1><p align="center">
 </p>
 
 ## Profile Views
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Unknowns01&label=Profile%20Views&color=00F7FF&style=for-the-badge"/></p>
-
-## 🧑‍💻 About Me
-
-• Name: **Naman**
-• Role: **Custom ROM Maintainer**
-• Device: **Redmi Note 9 Pro (Miatoll)**
-• Focus: **Custom ROM Development**
 
 ## 📊 GitHub Stats
 
