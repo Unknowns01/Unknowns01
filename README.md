@@ -1,3 +1,6 @@
+# Hi 👋 I'm Naman
+Custom ROM Maintainer
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Naman;Android+ROM+Maintainer;Open+Source+Contributor"/>
 </h1><p align="center">
