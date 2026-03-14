@@ -21,27 +21,27 @@ Device: Redmi Note 9 Pro (Miatoll)
 
 📊 GitHub Stats
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unknowns01&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowns01&layout=compact&theme=tokyonight&hide_border=true"/></p>---
 
 🔥 GitHub Streak
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/></p>---
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknowns01&theme=tokyonight&hide_border=true"/></p>---
 
 📈 Contribution Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/></p>---
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknowns01&theme=tokyo-night&hide_border=true"/></p>---
 
 🐍 Contribution Snake
 
-<p align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/></p>---
+<p align="center"><img src="https://raw.githubusercontent.com/Unknowns01/output/github-contribution-grid-snake.svg"/></p>---
 
 👀 Profile Views
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge"/></p>---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Unknowns01&label=Profile%20Views&color=00F7FF&style=for-the-badge"/></p>---
 
 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/></p>---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Unknowns01&theme=tokyonight&no-frame=true&margin-w=10"/></p>---
 
 ⚡ Fun Fact
 
